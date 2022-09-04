@@ -57,7 +57,7 @@ bash UFinder.sh list.txt YourUsername
 
 
 >Instagram
-https://instagram.com/vardhanrajy08
+https://instagram.com/vardhanrajya08
 
 
 >Twitter
@@ -65,11 +65,11 @@ https://twitter.com/vardhanrajya08
 
 
 >Github
-https://github.com/vardhanrajy08
+https://github.com/vardhanrajya08
 
 
 >Telegram
-https://t.me/vardhanrajy08
+https://t.me/vardhanrajya08
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases. We Are Not Responsible For Damage Caused By Tool***
